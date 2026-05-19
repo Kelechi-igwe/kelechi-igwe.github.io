@@ -1,0 +1,8 @@
+site:
+  title: "Kelechi Igwe"
+  description: "Remote Sensing & Agricultural Water Systems Research"
+  template: book-theme
+
+project:
+  authors:
+    - name: Kelechi Igwe

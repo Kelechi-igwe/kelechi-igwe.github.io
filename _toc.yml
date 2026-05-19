@@ -1,0 +1,13 @@
+format: jb-book
+root: index
+
+chapters:
+  - file: about
+  - file: publications
+  - file: research/index
+    sections:
+      - file: research/crop-prosail
+      - file: research/soil-moisture
+      - file: research/future-work
+  - file: presentations
+  - file: awards
