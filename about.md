@@ -2,13 +2,15 @@
 
 ## Biography
 
-I am a PhD researcher at Kansas State University specializing in **remote sensing, crop modeling, and agricultural water systems**. My research focuses on developing **early-warning frameworks for crop water stress** by integrating satellite observations with process-based models.
+I am a PhD researcher at Kansas State University, focused on **remote sensing, crop modeling, and agricultural water systems**. I’m currently building workflows that support early detection of crop water stress by combining satellite observations with process-based models.
+
+This page is a work in progress while I collect slides, publications, and CV details that tell the full story.
 
 ---
 
 ## Education
 
-**PhD in [Your Program]**  
+**PhD in [Your Program, expected YYYY]**  
 Kansas State University
 
 **MSc / BSc**  
@@ -18,14 +20,13 @@ Kansas State University
 
 ## Research Experience
 
-**NASA-affiliated Research (if applicable)**
-- Developed remote sensing workflows for vegetation monitoring
-- Integrated multi-spectral data for stress detection
+**Current research**
+- Building remote sensing workflows for crop water stress monitoring
+- Coupling crop growth models with canopy reflectance models
+- Tracking soil moisture and vegetation dynamics across time
 
-**Doctoral Research**
-- Crop–PROSAIL model coupling
-- Soil moisture–vegetation dynamics
-- Multi-temporal satellite analytics
+**Other work**
+- [Replace this with earlier research, internships, or collaborations]
 
 ---
 
@@ -39,4 +40,6 @@ Kansas State University
 
 ## CV
 
-📄 [Download Full CV (PDF)](files/CV.pdf)
+📄 [Placeholder for full CV PDF](files/CV.pdf)
+
+I’m updating this page as I finalize my academic CV and supporting materials.

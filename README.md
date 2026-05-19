@@ -1,6 +1,6 @@
 # kelechi-igwe.github.io
 
-This repository holds the MyST website for the personal academic portfolio of Kelechi Igwe.
+This repository contains an active academic portfolio website for Kelechi Igwe. The site is intentionally written as a work in progress while I continue to update research details, CV materials, and presentation assets.
 
 ## Website structure
 
@@ -31,3 +31,5 @@ myst build
 ## Deployment
 
 The GitHub Action in `.github/workflows/deploy.yml` builds and deploys the site to GitHub Pages on every push to `main`.
+
+This repository is being updated continuously as I refine the pages and add new content.

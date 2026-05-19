@@ -2,38 +2,38 @@
 
 ## Overview
 
-This project develops a **coupled modeling framework** that integrates crop growth simulation with canopy radiative transfer modeling.
+This is an active research effort to connect crop growth simulation with canopy radiative transfer modeling.
 
 ---
 
 ## Motivation
 
-Traditional vegetation indices often fail to detect stress before visible symptoms appear. This framework addresses that limitation.
+Early stress signals can be hard to see from traditional vegetation indices. I am working on a coupled approach that brings together crop physiology and spectral modeling to improve early detection.
 
 ---
 
 ## Methodology
 
-- Crop model simulation → LAI, biomass
-- PROSAIL → canopy reflectance
-- Integration → spatial stress indicators
+- Simulate crop growth to estimate LAI, biomass, and canopy structure
+- Apply PROSAIL to generate canopy reflectance patterns
+- Combine the outputs to explore spatial stress indicators
 
 ---
 
-## Key Contributions
+## What I am tracking
 
-- Bridges physiological and spectral modeling
-- Enables early detection of stress signals
-- Captures spatial variability
+- How physiological and spectral models can work together
+- Early detection of stress before visible symptoms appear
+- Spatial variability in stress signals
 
 ---
 
 ## Outputs
 
-*(Insert your figures here later)*
+- Placeholder for figures, charts, and results
 
 ---
 
 ## Code
 
-[GitHub Repository](https://github.com/yourusername)
+- Placeholder for the code repository link

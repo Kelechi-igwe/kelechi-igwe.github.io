@@ -1,14 +1,16 @@
 # Future Research Directions
 
+This page captures ideas I am developing for the next phase of my research.
+
 ## Agent-Based Modeling for Crop Stress
 
-Developing agent-based systems to simulate crop responses under varying environmental conditions.
+Exploring agent-based approaches to simulate crop and soil interactions under varying conditions.
 
 ---
 
 ## Data–Model Fusion
 
-Integrating:
+Bringing together:
 - Remote sensing
 - Crop models
 - Soil data
@@ -17,6 +19,6 @@ Integrating:
 
 ## Scalable Early Warning Systems
 
-Building tools for:
+Working toward tools for:
 - Regional drought monitoring
 - Decision support systems

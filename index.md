@@ -1,8 +1,8 @@
 # Welcome
 
-I am a PhD researcher at Kansas State University working at the intersection of **remote sensing, crop modeling, and agricultural water systems**.
+I am a PhD researcher at Kansas State University, and this site is a working draft where I share early versions of my research, story, and academic portfolio.
 
-My work focuses on building data-driven systems to detect and predict crop water stress early, using satellite observations, process-based models, and soil moisture analytics.
+I am actively developing tools and analyses that combine **remote sensing, crop modeling, and agricultural water systems** to improve how we detect crop water stress.
 
 ---
 
@@ -16,9 +16,13 @@ My work focuses on building data-driven systems to detect and predict crop water
 
 ---
 
-## Research themes
+## What I am working on
 
 - Remote sensing of vegetation and water stress
 - Crop–PROSAIL coupled modeling
 - Soil moisture and vegetation dynamics
-- Scalable early-warning systems for agricultural water management
+- Early-warning systems for agricultural water management
+
+---
+
+This website is under active development. More details and examples are coming soon.

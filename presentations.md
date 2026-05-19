@@ -1,17 +1,23 @@
 # Presentations
 
+I am compiling a list of recent talks, posters, and slides here as I finalize the materials.
+
+---
+
 ## Conference Talks
 
-*(Add here)*
+- Placeholder for talks I have given or am preparing
 
 ---
 
 ## Posters
 
-*(Add here)*
+- Placeholder for poster presentations
 
 ---
 
 ## Slides
 
-*(Upload PDFs and link here)*
+- Placeholder for slide decks and PDF resources
+
+I will update this page as I upload new materials and supporting documents.

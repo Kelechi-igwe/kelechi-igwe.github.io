@@ -1,8 +1,12 @@
 # Publications
 
+This page is under active update. I am collecting published articles, manuscripts, and review activities as they become available.
+
+---
+
 ## Journal Articles
 
-*(Add when available)*
+- Placeholder for journal articles and peer-reviewed work
 
 ---
 
@@ -16,10 +20,12 @@
 
 ## Conference Papers
 
-*(Add here)*
+- Placeholder for conference papers and presentations
 
 ---
 
 ## Reviewer Activity
 
 - Reviewer for *Agricultural Water Management*
+
+More reviewer roles and activity will be added soon.
